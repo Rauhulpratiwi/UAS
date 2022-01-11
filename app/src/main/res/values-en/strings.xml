@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Animals Pedia</string>
+    <string name="about_us">About Us</string>
+    <string name="galery">Rabbit Guinea Pig &amp; Hourse</string>
+    // Layout
+    <string name="pilih_gambar">(Tap on picture to open gallery)</string>
+    <string name="daftar_ras_judul">List of Breeds</string>
+    <string name="kembali">Back</string>
+    <string name="kelinci">Rabbit</string>
+    <string name="marmut">Guinea Pigr</string>
+    <string name="kuda">Horse</string>
+    <string name="kelinci_list_title">List of Rabbit Breeds</string>
+    <string name="marmut_list_title">List of Guinea Pigr Breeds</string>
+    <string name="kuda_list_title">List of Horse Breeds</string>
+    // Profil
+    <string name="profil">Profil</string>
+    <string name="nama">Name : Rauhul Pratiwi</string>
+    <string name="nim">NIM : 180201033</string>
+    <string name="prodi">Major : Information System</string>
+    <string name="hobi">Ttl : Selong, 13 Oktober 1999</string>
+    // Data Kelinci
+    <string name="holland_lop_nama">Holland Lop</string>
+    <string name="holland_lop_asal">Dutch</string>
+    <string name="holland_lop_deskripsi">Has large hanging ears with medium-sized fur in a solid or broken motif (mixed with white).</string>
+    <string name="mini_lop_nama">Mini Lop</string>
+    <string name="mini_lop_asal">English</string>
+    <string name="mini_lop_deskripsi">The body is very round with long and thick ears and a large head. The fur is patterned solid or broken in various colors.</string>
+    <string name="polish_nama">Polish</string>
+    <string name="polish_asal">Burma / Myanmar</string>
+    <string name="polish_deskripsi">The coat is short, soft, flyback in six different colors: ruby-eyed white, blue-eyed white, black, blue, brown, and broken pattern.</string>
+    <string name="mini_rex_nama">Mini Rex</string>
+    <string name="mini_rex_asal">Iran</string>
+    <string name="mini_rex_deskripsi">The ears are erect and the neck is short. The fur is soft and short, very dense and can vary in color. Rex generally have a rounded back with well-developed shoulders.</string>
+    <string name="dutch_nama">Dutch</string>
+    <string name="dutch_asal">Thailand</string>
+    <string name="dutch_deskripsi">Has a clear black and white color. They have dark ears and rump and white shoulders, belly and forelegs, plus clumps of white fur on the front of their face.</string>
+    <string name="mini_satin_nama">Mini Satin</string>
+    <string name="mini_satin_asal">Russia</string>
+    <string name="mini_satin_deskripsi">The coat is very shiny in various patterns and colors. The body is short and round with a round and full head.</string>
+    // Data Marmut
+    <string name="american_nama">American</string>
+    <string name="american_asal">American</string>
+    <string name="american_deskripsi">Local guinea pigs look almost like mice but of course cuter. Local guinea pig fur is also a little not as much as rabbit and mouse fur</string>
+    <string name="abbysinian_nama">Abbysinian</string>
+    <string name="abbysinian_asal">Alaska,Siberia,Finland (snowy areas)</string>
+    <string name="abbysinian_deskripsi">a type of guinea pig that has long hair and has many swirls in its body.</string>
+    <string name="peruvian_nama">Peruvian</string>
+    <string name="peruvian_asal">Indonesia</string>
+    <string name="peruvian_deskripsi">This type of Peruvian guinea pig includes guinea pigs which are quite expensive.</string>
+    <string name="texel_nama">Texel</string>
+    <string name="texel_asal">Russia</string>
+    <string name="texel_deskripsi">Texel guinea pigs are also of great interest to many people, but unfortunately they are very difficult to find or rarely cultivate them.</string>
+    <string name="alpaca_nama">Alpaca</string>
+    <string name="alpaca_asal">German</string>
+    <string name="alpaca_deskripsi">Alpaca guinea pigs are also nice and cute, almost similar to Texel guinea pigs.</string>
+    <string name="coronet_nama">Coronet</string>
+    <string name="coronet_asal">Japan</string>
+    <string name="coronet_deskripsi">It can last a long time in cold room temperatures.</string>
+    // Data Kuda
+    <string name="arab_nama">Arab</string>
+    <string name="arab_asal">Arab</string>
+    <string name="arab_deskripsi">Arabian horses are one of the oldest horse breeds. As the name implies, this horse comes from the Arabian Peninsula.</string>
+    <string name="thoroughbred_nama">Thoroughbred</string>
+    <string name="thoroughbred_asal">North America</string>
+    <string name="thoroughbred_deskripsi">With a manly and muscular posture, thoroughbred horses are indeed suitable to be bred as racehorses.</string>
+    <string name="morgan_nama">Morgan</string>
+    <string name="morgan_asal">English</string>
+    <string name="morgan_deskripsi">This black horse does look elegant and mysterious. His name is cool, namely Morgan. This horse has a solid build, strong legs, expressive eyes and a muscular body.</string>
+    <string name="kuda_kuartal_amerika_nama">American Quarter Horse</string>
+    <string name="kuda_kuartal_amerika_asal">America</string>
+    <string name="kuda_kuartal_amerika_deskripsi">American quarter horses are great sprinters. Not only that, he can run at a speed of 55 miles / hour or 88.5 km / hour, explains the Horses and Foals laman page</string>
+    <string name="apploosa_nama">Apploosa</string>
+    <string name="apploosa_asal">Spanish</string>
+    <string name="apploosa_deskripsi">This horse has spots on its body like a Dalmatian dog. In addition to its eye-catching appearance, this horse is also known for its gentleness, friendliness and loyalty, says The Spruce Pets page.</string>
+    <string name="clydesdale_nama">Clydesdale</string>
+    <string name="clydesdale_asal">Scotland</string>
+    <string name="clydesdale_deskripsi">The hallmark of the Clydesdale horse is that it has strands of white hair on its ankles. Thanks to its beauty, this horse is often displayed at events such as festivals or parades.</string>
+</resources>

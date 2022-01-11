@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Hewan Pedia</string>
+    <string name="about_us">Tentang Kami</string>
+    <string name="galery">Kelinci Marmut &amp; Kuda</string>
+    // Layout
+    <string name="pilih_gambar">(Tekan gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="kembali">Kembali</string>
+    <string name="kelinci">Kelinci</string>
+    <string name="marmut">Marmut</string>
+    <string name="kuda">Kuda</string>
+    <string name="kelinci_list_title">Daftar Ras Kelinci</string>
+    <string name="marmut_list_title">Daftar Ras Marmut</string>
+    <string name="kuda_list_title">Daftar Ras Kuda</string>
+    // Profil
+    <string name="profil">Profil</string>
+    <string name="nama">Nama : Rauhul Pratiwi Anwari</string>
+    <string name="nim">NIM : 180201033</string>
+    <string name="prodi">Prodi : Sistem Informasi</string>
+    <string name="hobi">Ttl : Selong, 13 Oktober 1999</string>
+    // Data Kelinci
+    <string name="holland_lop_nama">Holland Lop</string>
+    <string name="holland_lop_asal">Belanda</string>
+    <string name="holland_lop_deskripsi">Memiliki telinga besar menggantung dengan bulu berukuran sedang dalam motif solid atau broken (bercampur putih).</string>
+    <string name="mini_lop_nama">Mini Lop</string>
+    <string name="mini_lop_asal">Inggris</string>
+    <string name="mini_lop_deskripsi">Tubuh sangat bulat dengan telinga panjang dan tebal serta kepala besar. Bulunya bermotif padat atau broken dalam berbagai warna.</string>
+    <string name="polish_nama">Polish</string>
+    <string name="polish_asal">Birma / Myanmar</string>
+    <string name="polish_deskripsi">Bulunya pendek, lembut, flyback dalam enam pewarnaan yang berbeda: putih bermata ruby, putih bermata biru, hitam, biru, coklat, dan pola broken.</string>
+    <string name="mini_rex_nama">Mini Rex</string>
+    <string name="mini_rex_asal">Iran</string>
+    <string name="mini_rex_deskripsi">Telinganya tegak panjang dan lehernya pendek. Bulunya lembut dan pendek, sangat padat dan bisa bervariasi warnanya. Rex umumnya memiliki punggung bulat dengan bahu yang berkembang dengan baik.</string>
+    <string name="dutch_nama">Dutch</string>
+    <string name="dutch_asal">Thailand</string>
+    <string name="dutch_deskripsi">Memiliki warna hitam dan putih yang jelas. Mereka memiliki telinga dan pantat berwarna gelap dan bahu, perut, serta kaki depan putih, ditambah gumpalan bulu putih di bagian depan wajah mereka.</string>
+    <string name="mini_satin_nama">Mini Satin</string>
+    <string name="mini_satin_asal">Rusia</string>
+    <string name="mini_satin_deskripsi">Lapisan bulunya sangat mengkilap dalam berbagai pola dan warna. Tubuhnya pendek dan bulat dengan kepala bulat dan penuh.</string>
+    // Data Marmut
+    <string name="american_nama">American</string>
+    <string name="american_asal">Amerika</string>
+    <string name="american_deskripsi">Marmut lokal bentuknya hampir mirip seperti tikus namun tentu saja lebih lucu. Bulu marmut lokal juga sedikit tidak sebanyak bulu kelinci dan tikus</string>
+    <string name="abbysinian_nama">Abbysinian</string>
+    <string name="abbysinian_asal">Alaska,Siberia,Finlandia (daerah bersalju)</string>
+    <string name="abbysinian_deskripsi">jenis marmut yang berbulu panjang dan memiliki banyak pusaran di tubuhnya.</string>
+    <string name="peruvian_nama">Peruvian</string>
+    <string name="peruvian_asal">Indonesia</string>
+    <string name="peruvian_deskripsi">Jenis marmut peruvian ini termasuk marmut yang harganya cukup mahal.</string>
+    <string name="texel_nama">Texel</string>
+    <string name="texel_asal">Rusia</string>
+    <string name="texel_deskripsi">Marmut texel juga diminati banyak orang namun sayangnya sangat susah didapatkan alias jarang yang membudidayakannya.</string>
+    <string name="alpaca_nama">Alpaca</string>
+    <string name="alpaca_asal">Jerman</string>
+    <string name="alpaca_deskripsi">Jenis marmut alpaca juga bagus dan lucu hampir mirip dengan marmut texel. Hanya saja ia lebih pendek dan lebih bulat.</string>
+    <string name="coronet_nama">Coronet</string>
+    <string name="coronet_asal">Jepang</string>
+    <string name="coronet_deskripsi">Ia mampu bertahan lama berada di suhu ruang yang dingin.</string>
+    // Data Kuda
+    <string name="arab_nama">Arab</string>
+    <string name="arab_asal">Arab</string>
+    <string name="arab_deskripsi">kuda Arab adalah salah satu ras kuda tertua. Sesuai dengan namanya, kuda ini berasal dari Semenanjung Arab.</string>
+    <string name="thoroughbred_nama">Thoroughbred</string>
+    <string name="thoroughbred_asal">Amerika Utara</string>
+    <string name="thoroughbred_deskripsi">Dengan posturnya yang gagah dan berotot, kuda thoroughbred memang cocok dibiakkan sebagai kuda pacu.</string>
+    <string name="morgan_nama">Morgan</string>
+    <string name="morgan_asal">Inggris</string>
+    <string name="morgan_deskripsi">Kuda berwarna hitam ini memang terlihat elegan dan misterius. Namanya pun keren, yaitu Morgan. Kuda ini memiliki tubuh yang padat, kaki yang kuat, mata yang ekspresif dan tubuh berotot.</string>
+    <string name="kuda_kuartal_amerika_nama">Kuda Kuartal Amerika</string>
+    <string name="kuda_kuartal_amerika_asal">Amerika</string>
+    <string name="kuda_kuartal_amerika_deskripsi">Kuda kuartal Amerika adalah pelari sprint yang hebat. Bukan hanya itu, ia bisa berlari dengan kecepatan 55 mil/jam atau 88,5 km/jam, jelas laman Horses and Foals</string>
+    <string name="apploosa_nama">Appaloosa</string>
+    <string name="apploosa_asal">Spanyol</string>
+    <string name="apploosa_deskripsi">Kuda ini memiliki bintik-bintik di tubuhnya seperti anjing dalmatian. Di samping penampilannya yang mencuri perhatian, kuda ini juga dikenal berkat kelembutan, keramahan dan loyalitasnya, ujar laman The Spruce Pets.</string>
+    <string name="clydesdale_nama">Clydesdale</string>
+    <string name="clydesdale_asal">Skotlandia</string>
+    <string name="clydesdale_deskripsi">Ciri khas kuda Clydesdale adalah memiliki juntaian rambut putih di pergelangan kakinya. Berkat keindahannya, kuda ini sering ditampilkan di acara seperti festival atau parade.</string>
+</resources>
